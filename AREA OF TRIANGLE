@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.mavenproject1;
+
+/**
+ *
+ * @author Matuma
+ */
+public class Mavenproject1 {
+
+    public static void main(String[] args) {
+        double length=23;
+        double base=14;
+        double area;
+        area=0.5*length*base;
+        System.out.println("area of a triagle is "+area);
+    }
+}
